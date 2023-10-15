@@ -12,6 +12,9 @@
         "group-title": "Kids",
         "channel-name": "HUNGAMA MULTIAUDIO",
         "tvg-id": "Unknown ID",
+        "license-type": "",
+        "license-key": "",
+        "license-key-local": {},        
         "video-streaming-link": "https:\/\/s.id\/HUNGAMA-TV-M3U8"
     },	
     {
@@ -19,8 +22,8 @@
         "group-title": "Sports",
         "channel-name": "Star Sports Select 2 HD",
         "tvg-id": "Unknown ID",
-        "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=463&key",
+        "license-type": "",
+        "license-key": "",
         "license-key-local": {},
         "video-streaming-link": "http:\/\/rftv.wtf\/tp\/rjiptv.mpd?contentID=463"
     },
