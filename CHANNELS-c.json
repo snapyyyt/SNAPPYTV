@@ -6,17 +6,10 @@
         "channel-name": "HUNGAMA",
         "tvg-id": "Unknown ID",
         "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=463&key",
+        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=66666&key",
         "license-key-local": {},        
         "video-streaming-link": "http:\/\/144.217.70.181:9587\/hin2\/HUNGAMA\/tracks-v1a1\/mono.m3u8?token=test"
     },
-    {
-        "tvg-logo": "https://ibb.co/447KXVM",
-        "group-title": "Kids",
-        "channel-name": "HUNGAMA MULTIAUDIO",
-        "tvg-id": "Unknown ID",
-        "video-streaming-link": "https://s.id/HUNGAMA-TV-M3U8"
-    },	
     {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
         "group-title": "Sports",
