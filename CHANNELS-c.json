@@ -5,7 +5,7 @@
         "channel-name": "HUNGAMA",
         "tvg-id": "Unknown ID",
         "license-type": "none",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=463&key",
+        "license-key": "none",
         "license-key-local": {},        
         "video-streaming-link": "http:\/\/144.217.70.181:9587\/hin2\/HUNGAMA\/tracks-v1a1\/mono.m3u8?token=test"
     },
