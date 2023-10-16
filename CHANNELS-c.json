@@ -1,14 +1,14 @@
 [   
-    {
-        "tvg-logo": "https://i.postimg.cc/D0wdvzrM/download.png",
-        "group-title": "Kids",
-        "channel-name": "HUNGAMA",
-        "tvg-id": "Unknown ID",
-        "license-type": "false",
-        "license-key": "",
-        "license-key-local": {},        
-        "video-streaming-link": "https://s.id/HUNGAMA-TV-M3U8"
-    },
+  {
+    "channelCat": "Kids",
+    "channelLang": "Auto",
+    "channelLogo": "https://gcdnb.pbrd.co/images/X68kJMCZwY5G.jpg",
+    "channelName": "Hungama",
+    "channelUrl": "",
+    "contentId": "3rd Party",
+    "drm": false,
+    "drmType": "false"
+  },
     {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
         "group-title": "Sports",
