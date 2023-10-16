@@ -1,21 +1,10 @@
-[
-   
-  {
-    "drm": "",
-    "featured": 0,
-    "genres": Kids,
-    "headers": "",
-    "link": "https://yupplivefragcp2.yuppcdn.net/190423/smil:primetvasia.smil/playlist.m3u8",
-    "poster_path": "https://play-lh.googleusercontent.com/8ad_sLtPmaKSf0mwKqfVB0IIS0oTvQr6lxibUWpsutJC1YSHCmKklrf8tMTF3VJX_6-C",
-    "title": "Prime Asia Tv",
-    "type": "Entertainment"
-  },    
+[   
     {
         "tvg-logo": "https:\/\/ibb.co\/447KXVM",
         "group-title": "Kids",
         "channel-name": "HUNGAMA",
         "tvg-id": "Unknown ID",
-        "license-type": "none",
+        "license-type": "false",
         "license-key": "",
         "license-key-local": {},        
         "video-streaming-link": "https:\/\/s.id\/HUNGAMA-TV-M3U8"
