@@ -1,20 +1,20 @@
  [
-      {
-        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f2\/Hungama_tv_logo.png",
+  {
+        "tvg-logo": "https:\/\/i.postimg.cc\/Kc7tDvkg\/download-1.png",
         "group-title": "Kids",
-        "channel-name": "Hungama 2",
+        "channel-name": "Disney Channel HD",
         "tvg-id": "",
-        "video-streaming-link": "http:\/\/144.217.70.181:9587\/hin2\/HUNGAMA\/tracks-v1a1\/mono.m3u8?token=test",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/ZZZPPMMKKR\/ZMMJAK6PQC\/96201",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
-    },
+    }, 
      {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f2\/Hungama_tv_logo.png",
         "group-title": "Kids",
-        "channel-name": "Hungama",
+        "channel-name": "Disney Channel HD",
         "tvg-id": "",
-        "video-streaming-link": "https:\/\/shortapi.vercel.app\/r\/652bc79068e5ca0008a9eb4b",
+        "video-streaming-link": "http:\/\/mixbix.xyz:8080\/cB9CUdnB4gYR\/QHCXDWkhTBpR\/238963",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
