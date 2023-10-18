@@ -1,4 +1,14 @@
  [
+    {
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
+        "group-title": "Kids",
+        "channel-name": "Disney Channel HD",
+        "tvg-id": "disneychannel.in",
+        "video-streaming-link": "http:\/\/sansat.net:25461\/ZZZPPMMKKR\/ZMMJAK6PQC\/96201",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },	 
  {
         "tvg-logo": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539",
         "group-title": "Kids",
