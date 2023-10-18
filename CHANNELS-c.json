@@ -1,14 +1,24 @@
  [
-  {
-        "tvg-logo": "https:\/\/i.postimg.cc\/Kc7tDvkg\/download-1.png",
+ {
+        "tvg-logo": "https://static.wikia.nocookie.net/crayonshinchan/images/6/6d/SHIN.png/revision/latest?cb=20200609184539",
         "group-title": "Kids",
-        "channel-name": "Disney Channel HD",
+        "channel-name": "SHINCHAN 24/7",
         "tvg-id": "",
-        "video-streaming-link": "http:\/\/sansat.net:25461\/ZZZPPMMKKR\/ZMMJAK6PQC\/96201",
+        "video-streaming-link": "http:\/\/starshare.live:8080\/live\/Hanny\/Hanny\/147724.ts",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
-    }, 
+   },	 
+   {
+        "tvg-logo": "https:\/\/static.wikia.nocookie.net\/doraemon\/images\/1\/18\/Doraemon_renew_2.png\/revision\/latest\/scale-to-width-down\/350?cb=20220727181256&path-prefix=en",
+        "group-title": "Kids",
+        "channel-name": "DORAEMON 24/7",
+        "tvg-id": "",
+        "video-streaming-link": "http:\/\/starshare.live:8080\/live\/Hanny\/Hanny\/147746.ts",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+   }, 
      {
         "tvg-logo": "https:\/\/i.postimg.cc\/PfcQSrdX\/download-2.png",
         "group-title": "Kids",
