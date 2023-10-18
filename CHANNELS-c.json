@@ -34,7 +34,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama",
         "tvg-id": "",
-        "video-streaming-link": "http://starshare.live:8080/live/Hanny/Hanny/18456.ts",
+        "video-streaming-link": "http:\/\/pxy.proxytx.cloud\/play\/live.php?mac=00:1A:79:74:6A:13&stream=1112134&extension=ts&play_token=cdoKZY73ZO",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
