@@ -44,7 +44,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama Multiaudio",
         "tvg-id": "",
-        "video-streaming-link": "http://212.102.60.24:26085/Ycp6PzdWBnFvl5dOM3wVqM3b313e8776332c8da28767605e8a66c66167f0e2f4a2/video.m3u8?token=8d774e2804e384959f6c96f5aa58f153",
+        "video-streaming-link": "http://starshare.live:8080/live/Hanny/Hanny/18456.m3u8",
         "license-type": "widevine",
         "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
         "license-key-local": ""
