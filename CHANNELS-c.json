@@ -2,7 +2,17 @@
     {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
         "group-title": "Kids",
-        "channel-name": "Disney Channel HD",
+        "channel-name": "Disney Channel HD ",
+        "tvg-id": "disneychannel.in",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=156000&extension=ts&play_token=hIQLdMwmmf",
+        "license-type": "widevine",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key-local": ""
+    },
+    {
+        "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
+        "group-title": "Kids",
+        "channel-name": "Disney Channel HD 2",
         "tvg-id": "disneychannel.in",
         "video-streaming-link": "http:\/\/sansat.net:25461\/ZZZPPMMKKR\/ZMMJAK6PQC\/96201",
         "license-type": "widevine",
@@ -44,7 +54,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama Multiaudio",
         "tvg-id": "",
-        "video-streaming-link": "http://starshare.live:8080/live/Hanny/Hanny/18456.m3u8",
+        "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=1112134&extension=ts&play_token=r0pjDkPbU6",
         "license-type": "widevine",
         "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
         "license-key-local": ""
