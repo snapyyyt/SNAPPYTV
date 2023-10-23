@@ -56,7 +56,7 @@
         "tvg-id": "",
         "video-streaming-link": "http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:33:33:33&stream=1112134&extension=ts&play_token=UAOASQYoB4",
         "license-type": "widevine",
-        "license-key": "https://proxy.uat.widevine.com/proxy?provider=widevine_test",
+        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
     {
