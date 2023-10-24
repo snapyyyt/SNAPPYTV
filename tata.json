@@ -44,7 +44,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama",
         "tvg-id": "",
-        "video-streaming-link": "https:\\sanjibstream.live\sanjibdrop\dhoomtv\master.m3u8?id=7613",
+        "video-streaming-link": "http://54.39.100.215/IN__KG/index.m3u8?token=abcf826040aafad03a513674136fba84",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
@@ -54,7 +54,7 @@
         "group-title": "Kids",
         "channel-name": "Hungama Multiaudio",
         "tvg-id": "",
-        "video-streaming-link": "http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:33:33:33&stream=1112134&extension=ts&play_token=UAOASQYoB4",
+        "video-streaming-link": "http://54.39.100.215/IN__KG/index.m3u8?token=49c413756a382c0fb08ee9691624e213",
         "license-type": "widevine",
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
