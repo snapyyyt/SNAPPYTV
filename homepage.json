@@ -1,0 +1,20 @@
+[
+    {
+        "server-name" : "Addon channels",
+        "server-api" : "",
+        "is-active" : false,
+        "logo-url" : "https://i.postimg.cc/SKjNzXbC/download.png"
+    },
+    {
+        "server-name" : "Tata Play",
+        "server-api" : "",
+        "is-active" : true,
+        "logo-url" : "https://i.ibb.co/WKckHbw/tataplay.png"
+    },
+    {
+        "server-name" : "Jio TV",
+        "server-api" : "",
+        "is-active" : true,
+        "logo-url" : "https://i.ibb.co/B2wKbmf/jiotv.png"
+    }
+]
