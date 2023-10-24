@@ -46,7 +46,7 @@
         "tvg-id": "",
         "video-streaming-link": "https://sanjibstream.live/sanjibdrop/dhoomtv/master.m3u8?id=10482",
         "license-type": "widevine",
-        "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
+        "license-key": "https:\/\/proxy.uat.widevine.com\/proxy?provider=widevine_test",
         "license-key-local": ""
     },
      {
