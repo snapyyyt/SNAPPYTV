@@ -13,7 +13,7 @@
     },
     {
         "server-name" : "Jio TV",
-        "server-api" : "",
+        "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTV/main/jiotv.json",
         "is-active" : true,
         "logo-url" : "https://i.ibb.co/B2wKbmf/jiotv.png"
     }
