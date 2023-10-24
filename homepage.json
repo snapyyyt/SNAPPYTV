@@ -1,11 +1,5 @@
 [
     {
-        "server-name" : "Addon channels",
-        "server-api" : "",
-        "is-active" : false,
-        "logo-url" : "https://i.postimg.cc/SKjNzXbC/download.png"
-    },
-    {
         "server-name" : "Tata Play",
         "server-api" : "https://raw.githubusercontent.com/snapyyyt/SNAPPYTV/main/tata.json",
         "is-active" : true,
