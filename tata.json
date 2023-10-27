@@ -2,7 +2,7 @@
 	    {
         "tvg-logo": "https://i.postimg.cc/MpfpGDBt/download.png",
         "group-title": "Movies",
-        "channel-name": "STAR GOLD THRILLS
+        "channel-name": "STAR GOLD THRILLS"
         "tvg-id": "disneychannel.in",
         "video-streaming-link": "http://185.243.7.154:80/play/live.php?mac=00:1A:79:33:33:33&stream=155996&extension=ts&play_token=okyxU9dpBU",
         "license-type": "widevine",
@@ -6447,5 +6447,5 @@
         "group-title": "null",
         "channel-name": "U Bangla TV",
         "video-streaming-link": "https:\/\/ubangla.akamaized.net\/hls\/ubangla.m3u8"
-    }
+    },
 ]
