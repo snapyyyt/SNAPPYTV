@@ -1,5 +1,5 @@
 [
-	    {
+    {
         "tvg-logo": "https://i.postimg.cc/MpfpGDBt/download.png",
         "group-title": "Movies",
         "channel-name": "STAR GOLD THRILLS"
@@ -9,7 +9,7 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
-		    {
+   {
         "tvg-logo": "https://i.postimg.cc/2yXT0m2Q/download.jpg",
         "group-title": "Movies",
         "channel-name": "STAR GOLD ROMANCE
@@ -19,7 +19,7 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },
-	    {
+   {
         "tvg-logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/6c\/2014_Disney_Channel_logo.svg\/1200px-2014_Disney_Channel_logo.svg.png",
         "group-title": "Kids",
         "channel-name": "Disney Channel HD ",
@@ -39,7 +39,7 @@
         "license-key": "https:\/\/cwip-shaka-proxy.appspot.com\/no_auth",
         "license-key-local": ""
     },	 
- {
+   {
         "tvg-logo": "https://i.postimg.cc/13Q0cphL/community-Icon-uyjx15y39lm91.jpg",
         "group-title": "Kids",
         "channel-name": "SHINCHAN 24/7",
